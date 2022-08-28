@@ -144,7 +144,7 @@ loghandler = {
     }
 }
 
-const listkey = ["aruliazmu"];
+const listkey = ["aruliazmi"];
 //router.use(favicon(__path + "/views/logo.ico"));
 
 var len = 15
